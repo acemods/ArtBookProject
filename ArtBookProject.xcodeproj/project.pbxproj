@@ -14,6 +14,7 @@
 		EB200601237AE1980002489F /* ArtBookProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB2005FF237AE1980002489F /* ArtBookProject.xcdatamodeld */; };
 		EB200603237AE1990002489F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB200602237AE1990002489F /* Assets.xcassets */; };
 		EB200606237AE1990002489F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB200604237AE1990002489F /* LaunchScreen.storyboard */; };
+		EB20060E237AE4A40002489F /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB20060D237AE4A40002489F /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EB200602237AE1990002489F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB200605237AE1990002489F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB200607237AE1990002489F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB20060D237AE4A40002489F /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EB2005F6237AE1980002489F /* AppDelegate.swift */,
 				EB2005F8237AE1980002489F /* SceneDelegate.swift */,
 				EB2005FA237AE1980002489F /* ViewController.swift */,
+				EB20060D237AE4A40002489F /* DetailsVC.swift */,
 				EB2005FC237AE1980002489F /* Main.storyboard */,
 				EB200602237AE1990002489F /* Assets.xcassets */,
 				EB200604237AE1990002489F /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				EB2005FB237AE1980002489F /* ViewController.swift in Sources */,
 				EB2005F7237AE1980002489F /* AppDelegate.swift in Sources */,
 				EB2005F9237AE1980002489F /* SceneDelegate.swift in Sources */,
+				EB20060E237AE4A40002489F /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
